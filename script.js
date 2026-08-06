@@ -12,7 +12,7 @@
    CTA final e botão flutuante) serão atualizados
    automaticamente ao carregar a página.
    --------------------------------------------------------- */
-const CHECKOUT_URL = "https://pay.hub.la/SEU-LINK-DE-CHECKOUT-AQUI";
+const CHECKOUT_URL = "https://pay.hub.la/S5PJQs6kaGnt76c1hEa2";
 
 document.addEventListener('DOMContentLoaded', () => {
   aplicarLinkDeCheckout();
